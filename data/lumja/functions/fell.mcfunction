@@ -1,6 +1,6 @@
-function lumja:fell/oak
-function lumja:fell/birch
-function lumja:fell/spruce
-function lumja:fell/jungle
-function lumja:fell/acacia
-function lumja:fell/dark_oak
+execute as @a[tag=hasAxe] at @s run function lumja:fell/oak
+execute as @a[tag=hasAxe] at @s run function lumja:fell/birch
+execute as @a[tag=hasAxe] at @s run function lumja:fell/spruce
+execute as @a[tag=hasAxe] at @s run function lumja:fell/jungle
+execute as @a[tag=hasAxe] at @s run function lumja:fell/acacia
+execute as @a[tag=hasAxe] at @s run function lumja:fell/dark_oak
